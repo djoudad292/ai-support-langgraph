@@ -40,3 +40,13 @@ next-env.d.ts
 
 # OS
 Thumbs.db
+
+# Expo
+dist/
+.expo/
+
+# Mobile
+mobile/node_modules/
+mobile/dist/
+mobile/.expo/
+mobile/.git/
